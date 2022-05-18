@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43eee5d7.chunk.css",
+    "main.js": "/static/js/main.e24b20fc.chunk.js",
+    "main.js.map": "/static/js/main.e24b20fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c72adde0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c72adde0.js.map",
+    "static/js/2.648a020d.chunk.js": "/static/js/2.648a020d.chunk.js",
+    "static/js/2.648a020d.chunk.js.map": "/static/js/2.648a020d.chunk.js.map",
+    "static/js/3.d1d00f45.chunk.js": "/static/js/3.d1d00f45.chunk.js",
+    "static/js/3.d1d00f45.chunk.js.map": "/static/js/3.d1d00f45.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.43eee5d7.chunk.css.map": "/static/css/main.43eee5d7.chunk.css.map",
+    "static/js/2.648a020d.chunk.js.LICENSE.txt": "/static/js/2.648a020d.chunk.js.LICENSE.txt",
+    "static/media/billboard-title.f92c5a52.webp": "/static/media/billboard-title.f92c5a52.webp",
+    "static/media/billboard.2f31fed4.webp": "/static/media/billboard.2f31fed4.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72adde0.js",
+    "static/js/2.648a020d.chunk.js",
+    "static/css/main.43eee5d7.chunk.css",
+    "static/js/main.e24b20fc.chunk.js"
+  ]
+}
